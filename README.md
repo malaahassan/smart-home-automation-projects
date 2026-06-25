@@ -19,5 +19,3 @@ Things I used:
 
 
 These are hobby projects intended for learning and experimentation.
-
-smart-home-automation-projects
