@@ -5,7 +5,7 @@ A few projects I built while experimenting with ESP8266, ESP32 and Arduino board
 Things I made:
 - Fan controller with speed control
 - Light Controller with Motion Sensor
-- Door Soleniod Controller using RFID
+- Door Soleniod Controller with RFID
 - OTA update experiments
 
 Things I used:
